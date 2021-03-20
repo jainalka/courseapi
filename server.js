@@ -4,7 +4,7 @@ const cors = require('cors');
 const session = require('express-session');
 const cookies = require('cookie-parser');
 const bodyParser = require('body-parser');
-const PORT =Number(4000);
+const PORT =Number(4444);
 const config =require("./config");
 const mongoose = require('mongoose');
 
